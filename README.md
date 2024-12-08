@@ -1,2 +1,3 @@
 # DH11ESP32
-Esp32 and DH11 Webserver
+Utilises Esp32 and Esp8266 With A Webserver
+USE PIN 27 AND REPLACE WIFI CREDS
